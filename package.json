@@ -2,7 +2,7 @@
   "name": "hapi-juggling-mongodb",
   "version": "1.0.0",
   "description": "Easy ORM (juggling) example with HapiJS and mongoDB",
-  "homepage": "https://github.com/diegochiquero/hapi-juggling-mongodb",
+  "homepage": "https://github.com/diegochiquero/hapijs-juggling-mongodb",
   "main": "server.js",
   "scripts": {
     "start": "node server",
@@ -17,7 +17,7 @@
   "author": "dIEGO <chiquerodiego@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/diegochiquero/hapi-juggling-mongodb.git"
+    "url": "https://github.com/diegochiquero/hapijs-juggling-mongodb.git"
   },
   "license": "ISC",
   "dependencies": {
